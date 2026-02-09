@@ -1,0 +1,16 @@
+DATA/
+!data/
+data/synthetic_resumes.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+
